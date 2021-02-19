@@ -1,0 +1,22 @@
+.error{
+	color: red;
+}
+
+body{
+	display:flex;
+	flex-direction:column;
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	text-align:center;
+}
+
+.form-control{
+	width: 200;
+}
+
+.btn{
+	width:80px;
+}
